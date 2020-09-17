@@ -1,0 +1,45 @@
+header {
+  background-color: black;
+  color: white;
+  padding: 50px;
+  text-align: center;
+}
+
+
+#search-form {
+display: block;
+text-align: center;
+padding: 10px;
+}
+
+#filter {
+  display: flex;
+  flex-direction: row;
+  background-color: lightgrey;
+  justify-content: center;
+  padding: 10px;
+}
+
+.label {
+  background-color: lightgrey;
+  border: none;
+
+}
+
+li {
+  list-style:none;
+  margin: 10px;
+}
+
+#books {
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+}
+
+#title {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+
